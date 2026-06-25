@@ -1,0 +1,7 @@
+terraform {
+  required_version = ">= 4.0"
+}
+
+provider "azurerm" {
+  features {}
+}
